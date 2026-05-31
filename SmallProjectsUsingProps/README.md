@@ -1,0 +1,1 @@
+Learned Props using array and learned CSS used AI to understand some concepts of CSS. Need to work on my CSS.
