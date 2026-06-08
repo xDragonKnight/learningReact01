@@ -3,7 +3,7 @@ import React from 'react'
 
 //Understanding Functions Basics
 function onBtnClicked(val){
- var a = document.getElementById('Inputhuh');
+ var a = document.getElementById('Inputhuh'); // I understand this is not optimal but i have not learned about UseState yet.
  console.log(a.value);
  
 }
