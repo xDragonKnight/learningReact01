@@ -20,6 +20,7 @@ function btnClick()
 function btnClick2()
 {
   setdetailsemployee(prev=>[...detailsemployee,'React'])
+  
   console.log(employee);
   
 }
