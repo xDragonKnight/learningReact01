@@ -1,0 +1,1 @@
+Learned Local Storage, Session Storage and JSON stringify, JSON parse
