@@ -26,7 +26,7 @@ const [data, setdata] = useState([])
         {
          data.map(function(elem,idx){
           return (
-            <h2 key={idx}>Fact {idx+1}, {elem.attributes.body}</h2>
+            <h2 key={idx}>Fact {idx+1}, {elem.attributes}</h2>
           )
          })
         }
